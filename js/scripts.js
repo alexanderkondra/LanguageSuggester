@@ -9,14 +9,14 @@ $(document).ready(function() {
     var total = operatingSystem + codingExperience + sortOfDeveloper + findMoreInteresting + typeOfCompanies;
 
     if (total <=5) {
-      $(".Swift").show();
-    }
-
-    if (total <=7.5) {
       $(".Python").show();
     }
 
-    if (total <=15) {
+    if (total >=8) {
+      $(".Swift").show();
+    }
+
+    if (total >=15) {
       $(".JavaScripts").show();
     }
 
