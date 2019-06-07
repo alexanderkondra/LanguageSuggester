@@ -10,7 +10,7 @@ _Suggester survey to help the user choose the right programming language_
 
 ## Known Bugs
 
-_Need manually refresh the page. Also logic need somework on logic._
+_Need manually refresh the page. Also need somework on logic._
 
 ## Support and contact details
 
