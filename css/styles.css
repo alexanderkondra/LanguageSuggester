@@ -3,10 +3,11 @@
   color: black;
   font-family: 'Libre Barcode 39 Text', cursive;
   /* background-color: #25A3FC; */
+  font-size: 40px;
 }
 
 .jumbotron p {
-  font-size: 25px;
+  font-size: 28px;
 
 }
 
@@ -32,6 +33,15 @@ body {
   font-family: 'Yrsa', serif;
   font-weight: lighter;
 }
+
 button{
   color: black;
+}
+
+option{
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 40px;
 }

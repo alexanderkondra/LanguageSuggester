@@ -11,12 +11,8 @@ $(document).ready(function() {
     if (total <=5) {
       $(".Swift").show();
     }
-    else if (total <=5) {
-      $(".Python").hide();
 
-    }
-
-    if (total <=8) {
+    if (total <=7.5) {
       $(".Python").show();
     }
 
@@ -27,3 +23,6 @@ $(document).ready(function() {
     event.preventDefault();
   });
 });
+
+// need help with button refresh after submit
+// and i tried to hide didnt worked
