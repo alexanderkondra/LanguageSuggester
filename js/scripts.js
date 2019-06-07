@@ -12,11 +12,11 @@ $(document).ready(function() {
       $(".Python").show();
     }
 
-    if (total >=8) {
+    if (total >=6 && total<=10) {
       $(".Swift").show();
     }
 
-    if (total >=15) {
+    if (total >=11 && total<=15) {
       $(".JavaScripts").show();
     }
 
