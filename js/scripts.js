@@ -8,7 +8,18 @@ $(document).ready(function() {
 
     var total = operatingSystem + codingExperience + sortOfDeveloper + findMoreInteresting + typeOfCompanies;
 
-    
+    if (total <=5) {
+      $(".Swift").show();
+    }
 
-  }
-}
+    if (total <=8) {
+      $(".Python").show();
+    }
+
+    if (total <=15) {
+      $("JavaScript").show();
+    }
+
+    event.preventDefault();
+  });
+});
