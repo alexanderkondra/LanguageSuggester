@@ -1,10 +1,13 @@
 .jumbotron{
   text-align: center;
-  background-color: #25A3FC;
+  color: black;
+  font-family: 'Libre Barcode 39 Text', cursive;
+  /* background-color: #25A3FC; */
 }
 
 .jumbotron p {
-  font-size: 16px;
+  font-size: 25px;
+
 }
 
 img{
@@ -22,7 +25,13 @@ p {
 
 body {
   letter-spacing: 3px;
-  font-size: 18px;
+  font-size: 20px;
   padding: 20px;
-  background-color: #25A3FC;
+  background-image: url(https://wallimpex.com/wallpapers/crop-1920x1440-0-0-1920-1440/10036432/);
+  color: white;
+  font-family: 'Yrsa', serif;
+  font-weight: lighter;
+}
+button{
+  color: black;
 }

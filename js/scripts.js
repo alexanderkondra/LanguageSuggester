@@ -11,6 +11,10 @@ $(document).ready(function() {
     if (total <=5) {
       $(".Swift").show();
     }
+    else if (total <=5) {
+      $(".Python").hide();
+
+    }
 
     if (total <=8) {
       $(".Python").show();
