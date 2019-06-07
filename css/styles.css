@@ -1,0 +1,29 @@
+.jumbotron{
+  text-align: center;
+  background-color: #027BCE;
+}
+
+.jumbotron p {
+  font-size: 16px;
+}
+
+img{
+  width: 400px;
+}
+
+p {
+  font-size: 25px;
+}
+.JavaScripts, .Python, .Swift {
+  margin-top: 50px;
+  margin-left: 380px;
+  display: none;
+}
+
+body {
+  letter-spacing: 3px;
+  font-size: 18px;
+  padding: 20px;
+  background-color: #4BB3FD;
+
+}
