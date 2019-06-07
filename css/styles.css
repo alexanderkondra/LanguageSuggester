@@ -1,6 +1,6 @@
 .jumbotron{
   text-align: center;
-  background-color: #027BCE;
+  background-color: #25A3FC;
 }
 
 .jumbotron p {
@@ -24,6 +24,5 @@ body {
   letter-spacing: 3px;
   font-size: 18px;
   padding: 20px;
-  background-color: #4BB3FD;
-
+  background-color: #25A3FC;
 }
