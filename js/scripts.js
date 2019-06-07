@@ -17,7 +17,7 @@ $(document).ready(function() {
     }
 
     if (total <=15) {
-      $("JavaScript").show();
+      $(".JavaScripts").show();
     }
 
     event.preventDefault();
