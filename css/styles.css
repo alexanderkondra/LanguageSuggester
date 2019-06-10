@@ -45,3 +45,8 @@ option{
 h1 {
   font-size: 40px;
 }
+.button .refresh {
+  display: none;
+  text-align: center;
+  padding: 10px;
+}

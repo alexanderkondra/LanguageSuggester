@@ -10,19 +10,24 @@ $(document).ready(function() {
 
     if (total <=5) {
       $(".Python").show();
+      $("form").hide();
+      $(".refresh").show();
     }
 
     if (total >=6 && total<=10) {
       $(".Swift").show();
+      $("form").hide();
+      $(".refresh").show();
     }
 
     if (total >=11 && total<=15) {
       $(".JavaScripts").show();
+      $("form").hide();
+      $(".refresh").show();
+
     }
+
 
     event.preventDefault();
   });
 });
-
-// need help with button refresh after submit
-// and i tried to hide didnt worked
