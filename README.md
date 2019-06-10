@@ -7,6 +7,7 @@
 ## Description
 
 _Suggester survey to help the user choose the right programming language_
+_To deploy project click here "http://alexanderkondra.github.io/LanguageSuggester"_
 
 ## Known Bugs
 
